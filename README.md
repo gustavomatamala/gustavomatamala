@@ -1,4 +1,4 @@
-# Data Science Portfolio - Gustavo Matamala
+# Data Science Portfolio - Gustavo Matamala Villegas
 This Portfolio is a compilation of my Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. It is updated on the regular basis.
 
 - **Email**: [gmatamalav@gmail.com](gmatamalav@gmail.com)
