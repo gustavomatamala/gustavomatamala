@@ -19,3 +19,8 @@ Ingeniero industrial, Magíster en Ciencia de Datos UC Chile.
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=gustavomatamala&color=brightgreen)
